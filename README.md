@@ -104,20 +104,9 @@ print(me.motto())
   </a>
 </div>
 
----
 
-## 
----
 
-## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathyas-P&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
-## 
 ---
 
 ## 💼 Work Experience
