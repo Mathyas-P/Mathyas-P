@@ -1,30 +1,30 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mathyas%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Efficient%20%26%20User-Friendly%20Applications&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Mathyas%20P&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20%7C%20Building%20Efficient%20%26%20User-Friendly%20Applications&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Mathyas+P+%F0%9F%91%8B;Full+Stack+Web+Developer;Python+%7C+Django+%7C+React+Enthusiast;Building+Real-Time+AI+Systems+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hey+there%2C+I'm+Mathyas+P+%F0%9F%91%8B;Full+Stack+Web+Developer;Python+%7C+Django+%7C+React+Enthusiast;Building+Real-Time+AI+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mathyas-P&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mathyas-P&amp;label=Profile+Views&amp;color=70a5fd&amp;style=flat-square" alt="Profile Views"/>
   &nbsp;
   <a href="mailto:connectwithmathyas01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-connectwithmathyas01%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-connectwithmathyas01%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/Mathyas-P">
-    <img src="https://img.shields.io/github/followers/Mathyas-P?label=Followers&style=flat-square&color=bf91f3&logo=github&logoColor=white" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/Mathyas-P?label=Followers&amp;style=flat-square&amp;color=bf91f3&amp;logo=github&amp;logoColor=white" alt="GitHub Followers"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Chennai-Tamil%20Nadu%2C%20India-38bdae?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Chennai-Tamil%20Nadu%2C%20India-38bdae?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Location"/>
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Coder" style="border-radius:12px"/>
 
 ```python
 class MathyasP:
@@ -97,10 +97,10 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/Mathyas-P">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Mathyas-P&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Mathyas's GitHub Stats"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Mathyas-P&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" alt="Mathyas's GitHub Stats"/>
   </a>
   <a href="https://github.com/Mathyas-P">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mathyas-P&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mathyas-P&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -109,7 +109,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mathyas-P&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Mathyas-P&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -117,7 +117,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathyas-P&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathyas-P&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -125,7 +125,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mathyas-P&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mathyas-P&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -212,4 +212,4 @@ print(me.motto())
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
