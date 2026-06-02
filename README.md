@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Coder" style="border-radius:12px"/>
+<img align="right" width="250" src="https://github.com/Mathyas-P.png" alt="Mathyas P"/>
 
 ```python
 class MathyasP:
