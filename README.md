@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="250" src="https://github.com/Mathyas-P.png" alt="Mathyas P"/>
+<img align="right" width="280" src="https://avatars.githubusercontent.com/u/182333759?v=4" alt="Mathyas P"/>
 
 ```python
 class MathyasP:
@@ -119,6 +119,8 @@ print(me.motto())
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathyas-P&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
+
+---
 
 ---
 
